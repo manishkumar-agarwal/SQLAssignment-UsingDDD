@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneApplicationUsingDDD", "TelephoneApplicationUsingDDD\TelephoneApplicationUsingDDD.csproj", "{4610AA2E-BC4F-4FA3-9C38-792C8B30C636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneApplication", "TelephoneApplication\TelephoneApplication.csproj", "{F8A6EAB6-7E07-47DD-A4D0-550DF0DFB4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneApplicationInteraction", "TelephoneApplicationInteraction\TelephoneApplicationInteraction.csproj", "{4A75E38E-A6C7-4E85-9B1C-CAD7AA9843C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneSystemEntities", "TelephoneSystemEntities\TelephoneSystemEntities.csproj", "{662E827A-B17F-4DA4-BC8E-8FB2DBB5CA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBWrapper", "DBWrapper\DBWrapper.csproj", "{B86CD122-D028-4D6A-9979-91B613E824B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityDBInterface", "EntityDBInterface\EntityDBInterface.csproj", "{FF2DEBEA-A65B-4B52-958F-64C993C358AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4610AA2E-BC4F-4FA3-9C38-792C8B30C636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4610AA2E-BC4F-4FA3-9C38-792C8B30C636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4610AA2E-BC4F-4FA3-9C38-792C8B30C636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4610AA2E-BC4F-4FA3-9C38-792C8B30C636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A6EAB6-7E07-47DD-A4D0-550DF0DFB4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A6EAB6-7E07-47DD-A4D0-550DF0DFB4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A6EAB6-7E07-47DD-A4D0-550DF0DFB4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A6EAB6-7E07-47DD-A4D0-550DF0DFB4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A75E38E-A6C7-4E85-9B1C-CAD7AA9843C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A75E38E-A6C7-4E85-9B1C-CAD7AA9843C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A75E38E-A6C7-4E85-9B1C-CAD7AA9843C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A75E38E-A6C7-4E85-9B1C-CAD7AA9843C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662E827A-B17F-4DA4-BC8E-8FB2DBB5CA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662E827A-B17F-4DA4-BC8E-8FB2DBB5CA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662E827A-B17F-4DA4-BC8E-8FB2DBB5CA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662E827A-B17F-4DA4-BC8E-8FB2DBB5CA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86CD122-D028-4D6A-9979-91B613E824B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86CD122-D028-4D6A-9979-91B613E824B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86CD122-D028-4D6A-9979-91B613E824B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86CD122-D028-4D6A-9979-91B613E824B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2DEBEA-A65B-4B52-958F-64C993C358AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2DEBEA-A65B-4B52-958F-64C993C358AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2DEBEA-A65B-4B52-958F-64C993C358AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2DEBEA-A65B-4B52-958F-64C993C358AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
